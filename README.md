@@ -1,46 +1,44 @@
-# EthDenver 2023
-
 ![SporkDAO](https://uploads-ssl.webflow.com/636c2fd57def6f9c4bf33a90/638e491bdca18a766798d5c6_ETH_main_ethdenver2023%2Bcopy%201-p-1600.png)
 
-If you're reading this, it means you won a prize at the EthDenver 2023 Buidlathon.
+Congratulations! 🎉
 
-Congratulations! 🎉
+If you're reading this, you won a prize at the EthDenver 2023 Buidlathon.
 
-Now let's get you paid. 💸
+Let's get you paid - on-chain. 💸
 
-## 🎇 Making Web3 Hackathon History 🎆
+## The first hackathon that uses Web3 for its bounty distribution
 EthDenver 2023 is the **first** hackathon to leverage the tax compliant, on-chain payout system built by the fine folks at [OpenQ](https://openq.dev).
 
-All 1.25 million USDC will be distributed via the OpenQ bounty system deployed on Polygon.
+No more hassle accessing your prizes.
 
-This means no more:
+✅ Instant payouts
 
-❌ DMs and emails with organizers to coordinate payouts
+✅ Self-service platform
 
-❌ Sending around wallet addresses
+✅ Simple, built-in workflows for Web3 native tax and KYC compliance
 
-❌ Waiting weeks or even MONTHS for your payouts
+✅ All team members claim their own bounty
 
-❌ Paying high gas fees to re-distribute funds among your talented team members
+## Claim your bounty, now
 
-Finally - a Web3 hackathon that *actually uses* Web3 for its bounty distribution.
+**[Follow these instructions to claim your prize 🏆](https://docs.openq.dev/hackathon-winner/project-submission)**
 
-## Awesome! So How Do I Start?
+## Have a question or need help?
 
-**🏁 [FOLLOW THESE INSTRUCTIONS ALL THE WAY TO YOUR PRIZE](https://docs.openq.dev/hackathon-winner/project-submission) 🏁**
+[Join the OpenQ Discord](https://discord.com/invite/puQVqEvVXn) and post in the dedicated `ETHDENVER-2023-SUPPORT` channels with any questions.
 
-## How Do I Get Help?
-
-OpenQ, EthDenver and [kycDAO](https://kycdao.xyz/) will be on call all month to help make your claims seamless.
-
-[Join the OpenQ Discord](https://discord.com/invite/puQVqEvVXn) and post in the dedicated `ETHDENVER-2023-SUPPORT` channels with any questions.
+- OpenQ, EthDenver and [kycDAO](https://kycdao.xyz/) will be on call all month to help make your claims seamless.
 
 ## Nerd Bonus Points: How Does OpenQ Work?
 
 ### One Github Issue <-> One Smart Contract
 
-Each of the 178 issues in this repository is a bounty for ETHDenver 2023.
+OpenQ "mints" a smart contract for every  Github issue that represent a bounty during ETHDenver 2023
 
-OpenQ "mints" smart contracts around these Github issues, enabling hackathons like EthDenver to timelock escrow all bounty prizes for smart distributions.
+EthDenver timelock escrow all bounty prizes for smart distributions using OpenQ contracts.
 
 All OpenQ contracts are deployed on Polygon at the addresses listed [here](https://docs.openq.dev/reference/contract-addresses).
+
+## Want to work with us?
+
+If you run a hackathon or deal with bounty/grant payouts, please shoot us an email `info@openq.dev` or drop us a line in the [OpenQ Discord](https://discord.com/invite/puQVqEvVXn).
