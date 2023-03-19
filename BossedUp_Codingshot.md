@@ -2,7 +2,7 @@
 
 ## minorityprogrammers@gmail.com
 
-## dev
+## dev, pm, widgeter
 
 ## https://bos.gg/#/onboarder.near/widget/EthDenver2023Widgets
 
