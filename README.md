@@ -23,6 +23,12 @@ No more hassle accessing your prizes.
 
 **[Follow these instructions to claim your prize 🏆](https://docs.openq.dev/hackathon-winner/project-submission)**
 
+## Important
+
+After you have created your PR, you must first be accepted by ETHDenver. You will be notified when this is the case. Only then you can start uploading your tax forms!
+
+The bounties will be minted gradually from the 20th of March depending on how fast your sponsors are.
+
 ## Have a question or need help?
 
 [Join the OpenQ Discord](https://discord.com/invite/puQVqEvVXn) and post in the dedicated `ETHDENVER-2023-SUPPORT` channels with any questions.
