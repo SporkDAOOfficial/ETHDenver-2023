@@ -4,7 +4,7 @@
 
 ## alp.guneysel@gmail.com
 
-## Design, Copywriting, Frontend, Backend, Presentation Video
+## Design, Copywriting, Frontend, Backend, Deployment, Presentation Video
 
 ## https://github.com/gitcredit/gitscore
 
