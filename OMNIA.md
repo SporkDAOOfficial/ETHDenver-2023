@@ -1,10 +1,10 @@
 ## OMNIA
 
-## JuneL
+## Daneiel & JuneL
 
-## juneyanliang@gmail.com
+## n00bdan13@gmail.com & juneyanliang@gmail.com
 
-## Frontend Developer
+## Solidity Developer & Frontend Developer
 
 ## https://github.com/warproxxx/omnia-contracts
 
