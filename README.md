@@ -41,7 +41,7 @@ No...but most will.
 
 Here is a list of all sponsors which will pay out using OpenQ.
 
-If you're bounty sponsor is not featured here, please wait for your sponsor to reach out to you directly with further instructions.
+If your bounty sponsor is not featured here, please wait for your sponsor to reach out to you directly with further instructions.
 
 - 0x Labs
 - Aragon
