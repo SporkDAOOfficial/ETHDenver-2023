@@ -4,7 +4,7 @@
 
 ## bn.william.w@gmail.com
 
-## Frontend Developer
+## Full Stack Developer
 
 ## https://github.com/WilliamUW/NEAR_RocketPool
 
