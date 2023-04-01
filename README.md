@@ -43,48 +43,53 @@ Here is a list of all sponsors which will pay out using OpenQ.
 
 If your bounty sponsor is not featured here, please wait for your sponsor to reach out to you directly with further instructions.
 
-- 0x Labs
-- Aragon
-- Cartesi
-- Ceramic
-- Chainlink
-- Coinbase
-- Collab.land
-- Consensys Software Inc (Metamask / Infura)
-- Covalent
-- Cow Swap
-- Cypher Wallet
-- ETHDenver / SporkDAO
-- Fluence Labs
-- Game 7
-- Giveth
-- Huma Finance
-- Intu
-- Liquality (Some bounties are paid directly by Liquality)
-- Magic Labs
-- Mantle (Windranger Labs)
-- Metis
-- NEAR (Proximity)
-- OKX
-- OPLabs PBC
-- Open Zeppelin
-- Opolis
-- Orchid Labs
-- Pocket Network Inc
-- Quai Network
-- RISC Zero
-- Spectral Finance
-- SpruceID
-- SSV.Network
-- Swing
-- Swirlds Labs / Hash
-- Tally
-- Tally Ho (Taho)
-- Tenderly Technologies
-- TheGraph
-- Threshold
-- Web3Auth
-- zkSync (Matter Labs)
+-0x Labs
+-Aragon
+-AAVE/LENS Protocol
+-Cartesi
+-Ceramic
+-Chainlink
+-Coinbase
+-Collab.land
+-Consensys Software Inc (Metamask / Infura)
+-Covalent
+-Cow Swap
+-Cypher Wallet
+-ETHDenver / SporkDAO
+-Fireblocks
+-Fluence Labs
+-Fuel Labs
+-Game 7
+-Giveth
+-Huma Finance
+-Intu
+-Liquality
+-Magic Labs
+-Mantle (Windranger Labs)
+-Metis
+-NEAR (Proximity)
+-OKX
+-OPLabs PBC
+-Open Zeppelin
+-Opolis (Confirmed 03/21)
+-Orchid Labs
+-Polygon
+-Pocket Network Inc
+-Quai Network
+-RISC Zero
+-Spectral Finance
+-SpruceID
+-SSV.Network
+-Swing
+-Swirlds Labs / Hash
+-Tally
+-Tally Ho (Taho)
+-Tenderly Technologies
+-TheGraph
+-Threshold
+-Wallet Connect
+-Web3Auth
+-zkSync (Matter Labs)
 
 ## Nerd Bonus Points: How Does OpenQ Work?
 
