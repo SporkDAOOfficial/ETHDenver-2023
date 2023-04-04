@@ -45,6 +45,7 @@ If your bounty sponsor is not featured here, please wait for your sponsor to rea
 
 - 0x Labs
 - Aragon
+- AAVE/LENS Protocol
 - Cartesi
 - Ceramic
 - Chainlink
@@ -55,12 +56,14 @@ If your bounty sponsor is not featured here, please wait for your sponsor to rea
 - Cow Swap
 - Cypher Wallet
 - ETHDenver / SporkDAO
+- Fireblocks
 - Fluence Labs
+- Fuel Labs
 - Game 7
 - Giveth
 - Huma Finance
 - Intu
-- Liquality (Some bounties are paid directly by Liquality)
+- Liquality
 - Magic Labs
 - Mantle (Windranger Labs)
 - Metis
@@ -68,8 +71,9 @@ If your bounty sponsor is not featured here, please wait for your sponsor to rea
 - OKX
 - OPLabs PBC
 - Open Zeppelin
-- Opolis
+- Opolis (Confirmed 03/21)
 - Orchid Labs
+- Polygon
 - Pocket Network Inc
 - Quai Network
 - RISC Zero
@@ -83,6 +87,7 @@ If your bounty sponsor is not featured here, please wait for your sponsor to rea
 - Tenderly Technologies
 - TheGraph
 - Threshold
+- Wallet Connect
 - Web3Auth
 - zkSync (Matter Labs)
 
