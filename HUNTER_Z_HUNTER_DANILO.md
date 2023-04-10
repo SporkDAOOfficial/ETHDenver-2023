@@ -1,8 +1,6 @@
 ## HUNTER Z HUNTER
 
-## Danilo Woo Hyung Jun
-
-## danilowhk@gmail.com
+## Danilo Kim
 
 ## developer
 
