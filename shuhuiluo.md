@@ -4,10 +4,10 @@ Revenue-generating Limit Order
 ## <YOUR FULL NAME> (optional)
   
 ## <Used Email in Buidlbox>
-ninayangni@gmail.com
+shuhui@aperture.finance
   
 ## <YOUR ROLE ON THE TEAM>
-frontend engineer
+Backend Developer
   
 ## <LINK TO THE PROJECT REPOSITORY>
 https://github.com/Aperture-Finance/ethdenver-2023
