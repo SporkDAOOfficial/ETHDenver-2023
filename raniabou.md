@@ -4,7 +4,7 @@
 
 ## <rani.abou@mail.mcgill.ca>
 
-## <Co-Founder & Researcher>
+## <Researcher & Data Scientist>
 
 ## <https://github.com/josephbouassaf/mandaExecutionETHDenver>
 
